@@ -1,0 +1,8 @@
+venv/
+.venv/
+german-works/
+author-similarity_*.csv
+author-similarity_*.png
+author_consistency.png
+08_*.py
+09_*.py

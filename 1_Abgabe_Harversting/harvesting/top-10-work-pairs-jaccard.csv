@@ -1,0 +1,11 @@
+Rang,Werk A,Autor A,Gutenberg-ID A,Werk B,Autor B,Gutenberg-ID B,Jaccard-Aehnlichkeit
+1,Briefe Schillers und Goethes an A. W. Schlegel,Goethe,31216,Briefe Schillers und Goethes an A. W. Schlegel,Schiller,31216,1.000000
+2,Römische Elegien,Goethe,5325,Römische Elegien,Goethe,7875,0.960362
+3,Kritik der reinen Vernunft,Kant,6342,Kritik der reinen Vernunft,Kant,6343,0.867797
+4,Faust: Eine Tragödie [erster Teil],Goethe,21000,Faust: Der Tragödie erster Teil,Goethe,2229,0.753549
+5,Wilhelm Meisters Lehrjahre — Band 7,Goethe,2341,Wilhelm Meisters Lehrjahre — Band 8,Goethe,2342,0.369643
+6,Torquato Tasso,Goethe,10425,Die natürliche Tochter,Goethe,10426,0.361845
+7,Die Wahlverwandtschaften,Goethe,2403,Wilhelm Meisters Wanderjahre — Band 3,Goethe,2411,0.354083
+8,Wilhelm Meisters Wanderjahre — Band 2,Goethe,2410,Wilhelm Meisters Wanderjahre — Band 3,Goethe,2411,0.352979
+9,Wilhelm Meisters Wanderjahre — Band 1,Goethe,2409,Wilhelm Meisters Wanderjahre — Band 3,Goethe,2411,0.351933
+10,Wilhelm Meisters Lehrjahre — Band 5,Goethe,2339,Wilhelm Meisters Lehrjahre — Band 7,Goethe,2341,0.351489
