@@ -1,0 +1,4 @@
+__pycache__/
+.venv
+ebook_ids.txt
+fulltexts/
