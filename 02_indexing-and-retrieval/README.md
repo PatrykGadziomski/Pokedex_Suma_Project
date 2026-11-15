@@ -13,4 +13,4 @@ docker compose exec solr solr create -c pg_fulltexts
 
 5. Kein Kommentar.
 6. Kein Kommentar
-7. Für die Antwort auf die letzte Frage, siehe: ![02_indexing-and-retrieval/aufgaben_auswertung_bonusaufgabe.md](aufgaben_auswertung_bonusaufgabe.md)
+7. Für die Antwort auf die letzte Frage, siehe: ![aufgaben_auswertung_bonusaufgabe.md](aufgaben_auswertung_bonusaufgabe.md)
