@@ -13,15 +13,11 @@ Studiengang: Bibliotheksinformatik 2025
 
 Gesucht wurde nach dem Begriff "Lazarus Auferweckung" und das Ausgangsbuch für die Ähnlichkeitssuche wurde:
 
-ID: 50120
-
-Titel: Die Sebalduskirche in Nürnberg
-
-Autor(en): Hoffmann, Friedrich Wilhelm; Graf, Alfred, 1883-1960 [Contributor]; Hampe, Theodor, 1866-1933
-
-[Contributor]; Hauberrisser, Georg Joseph, Ritter von, 1841-1922 [Contributor]; Mummenhoff, Ernst, 1848-1931
-
-[Contributor]; Schmitz, Joseph [Contributor]
+- ID: 50120
+- Titel: Die Sebalduskirche in Nürnberg
+- Autor(en): Hoffmann, Friedrich Wilhelm; Graf, Alfred, 1883-1960 [Contributor]; Hampe, Theodor, 1866-1933
+- [Contributor]; Hauberrisser, Georg Joseph, Ritter von, 1841-1922 [Contributor]; Mummenhoff, Ernst, 1848-1931
+- [Contributor]; Schmitz, Joseph [Contributor]
 
 Folgende Beobachtungen wurden festgestellt:
 
