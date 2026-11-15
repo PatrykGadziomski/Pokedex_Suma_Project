@@ -22,16 +22,21 @@ Gesucht wurde nach dem Begriff "Lazarus Auferweckung" und das Ausgangsbuch für 
 Folgende Beobachtungen wurden festgestellt:
 
 Parameteränderung "mindf" 5 --> 2
+
 Zwei der Top-3-Treffer wurden ausgetauscht
 
 Parameteränderung "minwl" 5 --> 8
+
 Alle der Top-3-Treffer wurden ausgetauscht
 
 Parameteränderung "mintf" 2 --> 5
+
 Gleiche Top-3-Treffer und gleiche Begriffsliste
 
 Parameteränderung "maxdfpct" 25 --> 10
+
 Der dritte Treffer wurde ausgetauscht
+
 
 Bei unseren Tests hatte "minwl" den größten Einfluss auf die Trefferliste.
 Den geringsten Einfluss hatte "mintf".
