@@ -23,7 +23,7 @@ Folgende Beobachtungen wurden festgestellt:
 
 Parameteränderung "mindf" 5 --> 2
 
-Zwei der Top-3-Treffer wurden ausgetauscht
+- Zwei der Top-3-Treffer wurden ausgetauscht
 
 Parameteränderung "minwl" 5 --> 8
 
