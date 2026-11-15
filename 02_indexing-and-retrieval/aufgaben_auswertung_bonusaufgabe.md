@@ -27,19 +27,17 @@ Parameteränderung "mindf" 5 --> 2
 
 Parameteränderung "minwl" 5 --> 8
 
-Alle der Top-3-Treffer wurden ausgetauscht
+- Alle der Top-3-Treffer wurden ausgetauscht
 
 Parameteränderung "mintf" 2 --> 5
 
-Gleiche Top-3-Treffer und gleiche Begriffsliste
+- Gleiche Top-3-Treffer und gleiche Begriffsliste
 
 Parameteränderung "maxdfpct" 25 --> 10
 
-Der dritte Treffer wurde ausgetauscht
-
+- Der dritte Treffer wurde ausgetauscht
 
 Bei unseren Tests hatte "minwl" den größten Einfluss auf die Trefferliste.
 Den geringsten Einfluss hatte "mintf".
-
 
 Alle Treffer wurden bei jeder Parameteränderung der Suche überprüft und in jedem der Treffer wurde Relevanz und Zusammenhang zum Ausgangsbuch der Suche gefunden. Welcher Parameterwechsel den besten Einfluss auf die Qualität hatte ist bei einer kurzen Überprüfung schwer zu sagen. Um genauere Qualitätsunterschiede in der Trefferanzeige festzustellen, müssten die Trefferbücher intensiver ausgewertet werden.
