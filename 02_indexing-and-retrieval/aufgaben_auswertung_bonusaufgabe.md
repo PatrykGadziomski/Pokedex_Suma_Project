@@ -4,8 +4,6 @@
 - Semester: Wintersemester 2026/2027
 - Studiengang: Bibliotheksinformatik 2025
 
----
-
 # Bonusaufgabe
 
 Gesucht wurde nach dem Begriff "Lazarus Auferweckung" und das Ausgangsbuch für die Ähnlichkeitssuche wurde:
